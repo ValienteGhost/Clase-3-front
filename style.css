@@ -83,4 +83,33 @@ header p{
     margin-left: 1%;
     text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
+h3{
+    font-size: 1.4em;
+    margin-top: 20px;
+    color:rgba(0, 0, 0, 0.5);
+}
 
+section{
+    background-color: #815757;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+
+}
+section hr{
+    border:0;
+    height: 2px;
+    background: #3dad4c;
+    margin: 10px 0;
+}
+i{
+    color: #2c8dce;
+    margin-right: 8px;
+}
+ul{
+    list-style: none;
+}
+ul li{
+    padding: 5px 0;
+}
