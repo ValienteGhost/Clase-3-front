@@ -113,3 +113,14 @@ ul{
 ul li{
     padding: 5px 0;
 }
+address a{
+    color: #2c8dce;
+    text-decoration: none;
+}
+address p{
+    margin: 5px 0;
+}
+
+article{
+    margin-bottom: 15px;
+}
